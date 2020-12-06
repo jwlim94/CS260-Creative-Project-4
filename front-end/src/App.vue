@@ -16,7 +16,7 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
-    <a href="">GitHub</a>
+    <a href="https://github.com/jwlim94/CS260-Creative-Project-4">GitHub</a>
   </div>
 </div>
 </template>
